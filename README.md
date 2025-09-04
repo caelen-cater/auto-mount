@@ -2,7 +2,8 @@
 
 A powerful daemon service that automatically monitors and remounts multiple SFTP connections when they become unmounted. Perfect for Plex servers, backup systems, or any application that relies on multiple remote media storage sources.
 
-**Repository**: [https://github.com/caelen-cater/auto-mount](https://github.com/caelen-cater/auto-mount)
+**Repository**: [https://github.com/caelen-cater/auto-mount](https://github.com/caelen-cater/auto-mount)  
+**Website**: [https://caelen.dev](https://caelen.dev)
 
 ## Features
 
