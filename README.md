@@ -168,5 +168,4 @@ sudo ./install.sh uninstall
 
 ## License
 
-MIT License - see LICENSE file for details.
-Automatically mounts a SFTP server if it is not currently mounted.
+Apache-2.0 License - see LICENSE file for details.
