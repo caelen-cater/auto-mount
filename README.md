@@ -49,6 +49,11 @@ sudo ./install.sh update
 sudo ./install.sh add
 ```
 
+### Edit an Existing Server
+```bash
+sudo ./install.sh edit
+```
+
 ### List All Servers
 ```bash
 sudo ./install.sh list
