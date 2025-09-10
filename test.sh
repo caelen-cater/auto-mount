@@ -3,7 +3,7 @@
 # Test script for multi-server auto-mount functionality
 # This script tests the auto-mount system without actually mounting
 #
-# Auto-Mount SFTP Service v1.1.0
+# Auto-Mount SFTP Service v1.2.0
 # Repository: https://github.com/caelen-cater/auto-mount
 # Website: https://caelen.dev
 # Copyright (c) 2025 Caelen Cater

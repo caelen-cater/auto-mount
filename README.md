@@ -54,6 +54,17 @@ sudo ./install.sh add
 sudo ./install.sh edit
 ```
 
+### Repair/Regenerate Files
+```bash
+sudo ./install.sh repair
+```
+
+The repair command regenerates all files for existing servers with their current settings. Useful for:
+- Fixing corrupted scripts or services
+- Restoring missing files after system updates
+- Updating file permissions or ownership
+- Regenerating files with latest improvements
+
 ### List All Servers
 ```bash
 sudo ./install.sh list
